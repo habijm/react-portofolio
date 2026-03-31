@@ -1,0 +1,8 @@
+function App() {
+ 
+  return (
+   <h1 className="text-2xl font-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quasi aspernatur ducimus consequuntur consectetur magni porro saepe in deserunt autem illo magnam natus, qui aut soluta maiores doloremque, dolorem expedita harum laborum? In perspiciatis vero sequi exercitationem libero sint mollitia, veniam minus quam nihil recusandae saepe suscipit nobis veritatis amet. Quas similique maxime id sequi dicta optio at amet nesciunt ab aliquid quidem voluptas saepe eos ullam ducimus dolorum nostrum, expedita, voluptates architecto blanditiis corporis provident voluptatibus! Totam possimus repellat nihil temporibus perspiciatis veritatis, autem blanditiis! Iste illum minus quae! Accusamus quidem, molestias itaque enim sed labore pariatur dolore vero soluta quas, incidunt sit ullam distinctio nobis voluptas ducimus! Sunt ab quas quod fuga commodi omnis aperiam eius! Blanditiis dicta voluptatum delectus eaque numquam inventore deleniti labore, amet itaque neque temporibus fuga quaerat distinctio debitis mollitia eveniet consectetur? Dignissimos excepturi praesentium ducimus est nostrum doloremque ex minus, at modi aliquam totam. Delectus dolorem eligendi, quisquam officiis error obcaecati dolorum! Repellat laborum animi architecto, excepturi consectetur corporis. Accusamus, id dolor veritatis obcaecati culpa recusandae nostrum cumque minus natus consectetur ipsam consequuntur earum magnam et nesciunt dicta, libero impedit animi. Corporis accusantium soluta ea repellat, architecto quia amet aspernatur accusamus laboriosam molestiae.</h1>
+  )
+}
+
+export default App
